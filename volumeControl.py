@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 27 20:57:17 2019
 
-@author: jadri
+@author: jadrienhannon
 """
 import ctypes
 import time
