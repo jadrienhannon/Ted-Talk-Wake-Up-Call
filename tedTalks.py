@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 19 13:56:49 2019
 
-@author: jadri
+@author: jadrienhannon
 """
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
